@@ -1,7 +1,7 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Prakaash%20Khaire&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Product%20Owner%20%7C%20Business%20Analyst%20%7C%20Digital%20Transformation%20%26%20AI%20Strategy%20Consultant&descAlignY=60&animation=fadeIn" />
 </p>
-
+](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:065F46,100:10B981)
 # Hi, I'm Prakaash Khaire 👋
 
 ## Product Owner | Business Analyst | Digital Transformation & AI Strategy Consultant
