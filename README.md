@@ -1,26 +1,38 @@
-[<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Prakaash%20Khaire&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Product%20Owner%20%7C%20Business%20Analyst%20%7C%20Digital%20Transformation%20%26%20AI%20Strategy%20Consultant&descAlignY=60&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:DDEFD8,50:CFE8CF,100:A8D5BA&text=Prakaash%20Khaire&fontColor=1F2937&fontSize=48&fontAlignY=40&desc=Product%20Owner%20%7C%20Business%20Analyst%20%7C%20Digital%20Transformation%20%26%20AI%20Strategy%20Consultant&descAlignY=60&animation=fadeIn" />
 </p>
-](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:065F46,100:10B981)
+
 # Hi, I'm Prakaash Khaire 👋
 
 ## Product Owner | Business Analyst | Digital Transformation & AI Strategy Consultant
 
+<div align="center">
+
+### 🌿 Enterprise Transformation • AI & Engineering Systems • Workflow Automation • Operational Governance
+
+</div>
+
+<br>
+
 <p align="left">
   <a href="https://linkedin.com/in/prakaashkhaire">
-    <img src="https://img.shields.io/badge/LinkedIn-Prakaash%20Khaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Prakaash%20Khaire-7FB77E?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:prakaash.khaire@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-A8D5BA?style=for-the-badge&logo=microsoftoutlook&logoColor=1F2937"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7FB77E"/>
 </p>
 
 ---
 
 # 👋 About Me
+
+<table>
+<tr>
+<td bgcolor="#F4FBF2">
 
 Strategic and delivery-focused Product Owner and Business Analyst with 17+ years of experience delivering enterprise digital transformation, workflow automation, compliance-driven platform solutions, and AI-enabled operational systems across industrial, enterprise, and technology environments.
 
@@ -36,9 +48,19 @@ Experienced in leading:
 
 Strong expertise in translating complex operational, compliance, engineering, and business requirements into scalable enterprise platforms aligned with governance, auditability, automation, stakeholder collaboration, and strategic transformation objectives.
 
+</td>
+</tr>
+</table>
+
 ---
+
 # 🚀 Enterprise Platform Portfolio
+
 ## 🛡️ EHS & Permit to Work Platforms
+
+<table>
+<tr>
+<td bgcolor="#F4FBF2">
 
 Enterprise operational governance solutions supporting workflow automation, safety management, compliance visibility, and digital operational transformation.
 
@@ -50,7 +72,17 @@ Enterprise operational governance solutions supporting workflow automation, safe
 | Incident Management | SIMOPS Coordination | CAPA Management | Operational Reporting |
 | Risk Assessment | Toolbox Talk Systems | PPE Management | Compliance Traceability |
 
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚠️ DORA Tool (DNV-RP-F107)
+
+<table>
+<tr>
+<td bgcolor="#F4FBF2">
 
 Enterprise engineering platform supporting dropped object risk assessment, deterministic impact analysis, subsea pipeline protection evaluation, and operational risk governance aligned with DNV-RP-F107.
 
@@ -64,7 +96,17 @@ Enterprise engineering platform supporting dropped object risk assessment, deter
 | Bow-Tie Risk Analysis | Escalation Modelling | Subsea Layout Mapping | Audit Traceability |
 | Risk Matrix Configuration | Consequence Assessment | Pipeline Exposure Analysis | Compliance Reporting |
 
+</td>
+</tr>
+</table>
+
+---
+
 ## 🌊 Hydraulic Demand System
+
+<table>
+<tr>
+<td bgcolor="#F4FBF2">
 
 Enterprise engineering platform supporting fire water demand analysis, hydraulic calculations, protection strategy management, and industrial firefighting system design.
 
@@ -76,20 +118,60 @@ Enterprise engineering platform supporting fire water demand analysis, hydraulic
 | Protection Strategy | Pressure Loss Analysis | Design Criteria Validation | Workflow Automation |
 | Fire Case Definition | Demand Source Analysis | Scenario Modelling | Operational Governance |
 
+</td>
+</tr>
+</table>
+
 ---
 
 # 🧩 Core Competencies
 
 <div align="center">
 
-| 🚀 Product & Delivery | 🧠 AI & Transformation | ⚙️ Enterprise Systems |
-|---|---|---|
-| Product Ownership | AI Strategy | Engineering Platforms |
-| Agile & Scrum Delivery | Agentic AI Systems | EHS & PTW Systems |
-| Backlog Prioritisation | Deterministic AI | Risk Assessment Platforms |
-| Stakeholder Management | Workflow Automation | Operational Governance |
-| Requirements Engineering | Enterprise AI Integration | Enterprise SaaS Solutions |
-| BPMN Workflow Design | RAG Architecture | Multi-System Integration |
+<table>
+<tr bgcolor="#DDEFD8">
+<th>🚀 Product & Delivery</th>
+<th>🧠 AI & Transformation</th>
+<th>⚙️ Enterprise Systems</th>
+</tr>
+
+<tr>
+<td>Product Ownership</td>
+<td>AI Strategy</td>
+<td>Engineering Platforms</td>
+</tr>
+
+<tr>
+<td>Agile & Scrum Delivery</td>
+<td>Agentic AI Systems</td>
+<td>EHS & PTW Systems</td>
+</tr>
+
+<tr>
+<td>Backlog Prioritisation</td>
+<td>Deterministic AI</td>
+<td>Risk Assessment Platforms</td>
+</tr>
+
+<tr>
+<td>Stakeholder Management</td>
+<td>Workflow Automation</td>
+<td>Operational Governance</td>
+</tr>
+
+<tr>
+<td>Requirements Engineering</td>
+<td>Enterprise AI Integration</td>
+<td>Enterprise SaaS Solutions</td>
+</tr>
+
+<tr>
+<td>BPMN Workflow Design</td>
+<td>RAG Architecture</td>
+<td>Multi-System Integration</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -107,12 +189,28 @@ Enterprise engineering platform supporting fire water demand analysis, hydraulic
 
 # 🏅 Certifications
 
-| Certification | Provider |
-|---|---|
-| Professional Scrum Product Owner™ – AI Essentials (PSPO AIE) | Scrum.org |
-| Professional Scrum Product Owner™ I (PSPO I) | Scrum.org |
-| Certified Scrum Master (CSM) | Scrum Alliance |
+<table>
+<tr bgcolor="#DDEFD8">
+<th>Certification</th>
+<th>Provider</th>
+</tr>
 
+<tr>
+<td>Professional Scrum Product Owner™ – AI Essentials (PSPO AIE)</td>
+<td>Scrum.org</td>
+</tr>
+
+<tr>
+<td>Professional Scrum Product Owner™ I (PSPO I)</td>
+<td>Scrum.org</td>
+</tr>
+
+<tr>
+<td>Certified Scrum Master (CSM)</td>
+<td>Scrum Alliance</td>
+</tr>
+
+</table>
 
 ---
 
@@ -121,14 +219,14 @@ Enterprise engineering platform supporting fire water demand analysis, hydraulic
 <div align="center">
 
 <a href="https://linkedin.com/in/prakaashkhaire">
-  <img src="https://img.shields.io/badge/LinkedIn-Prakaash%20Khaire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Prakaash%20Khaire-7FB77E?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:prakaash.khaire@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-A8D5BA?style=for-the-badge&logo=microsoftoutlook&logoColor=1F2937" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7FB77E" />
 
 </div>
 
@@ -136,10 +234,10 @@ Enterprise engineering platform supporting fire water demand analysis, hydraulic
 
 <div align="center">
 
-## 💡 Building enterprise-grade AI and operational platforms that combine deterministic accuracy, workflow intelligence, governance, automation, and scalable digital transformation.
+## 🌿 Building enterprise-grade AI and operational platforms that combine deterministic accuracy, workflow intelligence, governance, automation, and scalable digital transformation.
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,40:1E3A8A,100:2563EB" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:DDEFD8,50:CFE8CF,100:A8D5BA" />
 </p>
