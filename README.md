@@ -1,21 +1,23 @@
 <!--
   ============================================================
   Prakaash Khaire — GitHub Profile README
-  Before publishing: replace YOUR_USERNAME (2 places)
+  Banner and footer are self-hosted in ./assets — no external image services
   ============================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1F2937,45:2F5D50,100:A8D5BA&fontColor=FFFFFF&text=PRAKAASH%20KHAIRE&fontSize=44&fontAlignY=38&desc=Product%20Owner%20•%20Business%20Analyst%20•%20Digital%20Transformation%20%26%20AI%20Strategy&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Prakaash Khaire — Product Owner, Business Analyst, Digital Transformation & AI Strategy Consultant" />
+<img src="./assets/banner.svg" width="100%" alt="Prakaash Khaire — Product Owner, Business Analyst, Digital Transformation &amp; AI Strategy Consultant" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=7FB77E&center=true&vCenter=true&width=760&lines=Enterprise+Transformation+%E2%80%A2+AI+%26+Engineering+Systems;Workflow+Automation+%E2%80%A2+Operational+Governance;17%2B+years+delivering+compliance-driven+platforms" alt="Enterprise Transformation • AI & Engineering Systems • Workflow Automation • Operational Governance" />
+<b>Enterprise Transformation</b> &nbsp;·&nbsp; <b>AI &amp; Engineering Systems</b> &nbsp;·&nbsp; <b>Workflow Automation</b> &nbsp;·&nbsp; <b>Operational Governance</b>
+
+<sub>17+ years delivering compliance-driven platforms across industrial and enterprise environments</sub>
 
 <br><br>
 
 <a href="https://linkedin.com/in/prakaashkhaire"><img src="https://img.shields.io/badge/LinkedIn-Prakaash%20Khaire-2F5D50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:prakaash.khaire@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-7FB77E?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=A8D5BA&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=prakashgkhaire28&style=for-the-badge&color=A8D5BA&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
 
@@ -176,6 +178,6 @@ Combining deterministic accuracy, workflow intelligence, governance, automation,
 <a href="https://linkedin.com/in/prakaashkhaire"><img src="https://img.shields.io/badge/LinkedIn-Prakaash%20Khaire-2F5D50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:prakaash.khaire@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-7FB77E?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A8D5BA,55:2F5D50,100:1F2937" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
